@@ -17,3 +17,5 @@ Recently I have  even tried making a discord bot capable of organizing tambola/h
 
 Currently I am trying to better my skills in data structures and the use of object oriented programming.
 
+I am always looking forward to any oportunities . You can reach me at my email i.e naman1102@gmail.com
+
