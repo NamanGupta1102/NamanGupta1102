@@ -1,5 +1,5 @@
 Hi everyone, thank you for visiting my github account.
-I am @NamanGupta1102, currently studying cs (Currently in my third year).
+I am @NamanGupta1102, currently studying cs (Currently in my final year).
 
 The languages which i am comfortable in are :-\n
 
