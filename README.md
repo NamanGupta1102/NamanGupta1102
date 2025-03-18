@@ -23,8 +23,8 @@ I'm a **Master's student in AI at Boston University** with a background in **Mac
 🔹 Applying **LLMs & probabilistic methods** to new challenges 🤖  
 
 ## 📫 Let's Connect!
-- 💼 **[LinkedIn](https://www.linkedin.com/in/YOUR_LINK)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/namangupta1102)**
 - 💻 **[GitHub](https://github.com/YOUR_GITHUB)**
-- ✉️ **Email: YOUR_EMAIL@domain.com**
+- ✉️ **Email: naman11@bu.edu**
 
 Let's build something awesome together! 🚀
