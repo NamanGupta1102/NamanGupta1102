@@ -1,5 +1,3 @@
-Of course. Here is a revised version of the README file with corrected markdown formatting and without the source citations.
-
 # Hi there, I'm Naman Gupta 👋
 
 I'm a Master's student in Artificial Intelligence at Boston University with a 3.86/4.0 CGPA, expecting to graduate in January 2026. I am passionate about Agentic AI, Machine Learning, LLMs, and NLP. My goal is to build robust and intelligent systems that solve real-world challenges.
