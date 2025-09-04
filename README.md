@@ -1,30 +1,93 @@
+Of course\! Here is a new README file generated from the information in your resume.
+
+-----
+
 # Hi there, I'm Naman Gupta 👋
 
-## 🚀 About Me
-I'm a **Master's student in AI at Boston University** with a background in **Machine Learning, NLP, and Data Science**. Passionate about applying AI to solve real-world problems, I have worked on projects spanning **sentiment propagation, ML model implementations, and algorithm analysis**.
+[cite\_start]I'm a Master's student in Artificial Intelligence at Boston University with a 3.86/4.0 CGPA, expecting to graduate in January 2026[cite: 4, 5, 11]. [cite\_start]I am passionate about Agentic AI, Machine Learning, LLMs, and NLP[cite: 54]. My goal is to build robust and intelligent systems that solve real-world challenges.
 
-## 🏆 What I Do
-- **NLP & AI Research**: Implementing **CKY parsing, Inside-Outside algorithms, and emotion propagation models**.
-- **Machine Learning Engineering**: Developing and optimizing models for **classification, clustering, and language modeling**.
-- **Data Science & Engineering**: Hands-on with **Beautiful Soup, Pandas, NumPy**, and **Hugging Face**.
-- **Software & Web Dev**: Built a **Tambola bot**, worked on **React.js web projects**, and optimized **ML pipelines**.
+\<p align="left"\>
+\<a href="[https://linkedin.com/in/namangupta1102](https://www.google.com/search?q=https://linkedin.com/in/namangupta1102)" target="blank"\>\<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="namangupta1102" height="30" width="40" /\>\</a\>
+\<a href="mailto:naman11@bu.edu" target="blank"\>\<img align="center" src="[https://img.icons8.com/color/48/0/ms-outlook.png](https://www.google.com/search?q=https://img.icons8.com/color/48/0/ms-outlook.png)" alt="Email" height="30" width="40" /\>\</a\>
+\</p\>
 
-## 🌟 Notable Projects
-- 🧠 **Sentiment Propagation on Transcripts**: Using **emotion classification** with propagation techniques to analyze tone shifts in videos.
-- 📖 **Domain-Specific Speciteller Implementation**: Working on **feature-based significance prediction for text**.
-- 🤖 **NLP Parsing & CKY Viterbi Algorithm**: Achieved **88.08% F1 score** on a syntactic parsing task.
-- 🔍 **Auto Insurance Claim Prediction**: Built and evaluated multiple models, **RBF kernel SVM** performed best (87% accuracy).
-- 🤖 **AI Code Security & Optimization**: Fine-tuned LLMs (e.g., **CodeT5**) for security recommendations.
+-----
 
-## 🎯 Goals & Interests
-🔹 Exploring **modern ML practices** in industry 🏢  
-🔹 Seeking **AI/ML internships** at companies like Google, Duolingo, and MIT startups 🔬  
-🔹 Interested in **algorithm analysis & optimization** 📊  
-🔹 Applying **LLMs & probabilistic methods** to new challenges 🤖  
+## 🛠️ Technical Skills
 
-## 📫 Let's Connect!
-- 💼 **[LinkedIn](https://www.linkedin.com/in/namangupta1102)**
-- 💻 **[GitHub](https://github.com/NamanGupta1102)**
-- ✉️ **Email: naman11@bu.edu**
+  * [cite\_start]**AI:** Agentic AI, Machine Learning, LLMs, NLP, Data Mining [cite: 54]
+  * [cite\_start]**Programming Languages:** Python, C++ [cite: 57]
+  * [cite\_start]**Libraries & Frameworks:** LangGraph (ReAct agents), Hugging Face, PyTorch, Streamlit, Flask, AutoGluon [cite: 55]
+  * [cite\_start]**Developer Tools:** VS Code, Git, Conda [cite: 56]
 
-Let's build something awesome together! 🚀
+-----
+
+## 💼 Professional Experience
+
+**Research Assistant** | [cite\_start]Boston University (*Present*) [cite: 9, 15]
+
+  * [cite\_start]Developed an Agentic AutoML framework that exposes data exploration and training as modular tools[cite: 18].
+  * [cite\_start]Enabled reusable "ML-as-a-tool" components for LLM/agent workflows using LangGraph[cite: 18].
+  * [cite\_start]Designed robust, generalizable pipelines to support hands-free model building across diverse datasets[cite: 19].
+
+**AI Agent Summer Assignment** | [cite\_start]NeuralSeek (*June 2025 - Present*) [cite: 20, 21, 14, 32]
+
+  * [cite\_start]Developing AI Agents on the NeuralSeek Platform[cite: 22].
+  * [cite\_start]Researching AI Trends and conducting Market Analysis[cite: 23].
+
+**Technical Head of ACM Chapter** | [cite\_start]MPSTME Mumbai (*Aug 2022 - Apr 2023*) [cite: 24, 25, 34]
+
+  * [cite\_start]Served as a Project Manager for over 20 mini project groups[cite: 26].
+  * [cite\_start]Organized 2 competitive programming competitions[cite: 27].
+  * [cite\_start]Led a team to design, test, and host challenging programming questions and their test cases[cite: 28].
+  * [cite\_start]Taught C++ and Python to students[cite: 28].
+
+-----
+
+## 🚀 Projects
+
+**RepoSense**
+
+  * [cite\_start]Implemented an LLM-driven agent using LangGraph to intelligently recommend relevant Hugging Face repositories[cite: 37].
+  * [cite\_start]Designed and optimized an agentic workflow to handle complex repository metadata fetching and analysis[cite: 38].
+  * [cite\_start]*Technologies used: Python, Hugging Face, Lang Graph, Gradio, RAG* [cite: 30]
+
+**Adjustable Face Anonymization**
+
+  * [cite\_start]Fine-tuned diffusion models to selectively preserve soft-biometric attributes like gender during anonymization[cite: 41].
+  * [cite\_start]Designed custom loss function combinations to balance identity obfuscation with attribute retention[cite: 42].
+  * [cite\_start]*Technologies used: Python, Pytorch, Hugging Face* [cite: 39]
+
+**Emotion Propagation in Video Transcript Analysis**
+
+  * [cite\_start]Engineered a system to analyze emotional tone in video transcripts through minute-by-minute emotion classification[cite: 44].
+  * [cite\_start]Achieved a 0.85 BLEU score and a 0.86 score on a custom Emotion Drift metric[cite: 45].
+  * [cite\_start]Visualized the evolution of emotional tone to derive insights into video content dynamics[cite: 46].
+  * [cite\_start]*Technologies used: Python, NLP, Machine Learning* [cite: 44]
+
+**Code Optimization and Security Tool**
+
+  * [cite\_start]Fine-tuned and evaluated 5 Large Language Models (LLMs) to provide suggestions for code security and optimization[cite: 48].
+  * [cite\_start]Achieved a CodeBLEU score of 0.77 using models like CodeT5[cite: 49].
+  * [cite\_start]Built a Streamlit interface for efficient code analysis and user feedback[cite: 50].
+  * [cite\_start]*Technologies used: Python, Hugging Face, Streamlit* [cite: 47]
+
+-----
+
+## 🎓 Education
+
+  * **Boston University** | [cite\_start]Boston, MA [cite: 4]
+
+      * [cite\_start]Master of Science in Artificial Intelligence (Expected Jan 2026) [cite: 5, 11]
+      * [cite\_start]CGPA: 3.86/4.0 [cite: 5]
+
+  * **NMIMS University** | [cite\_start]Mumbai, India [cite: 6, 12]
+
+      * [cite\_start]Bachelor of Technology in Computer Science and Business Systems (May 2024) [cite: 7, 13]
+      * [cite\_start]CGPA: 3.63/4.0 [cite: 7]
+
+-----
+
+## 📜 Certifications
+
+  * [cite\_start]**Hugging Face AI Agents Course Certificate** (May 2024) [cite: 52, 58]
